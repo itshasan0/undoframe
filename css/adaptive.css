@@ -1,0 +1,377 @@
+
+@media screen and (max-width: 414px) and (orientation: portrait) {
+
+    .sect1 {
+        height: 100vw;
+        width: 100vw;
+    }
+
+    .foto_1 {
+        width: 230vw;
+        height: 163vw;
+    }
+
+    .sect1 {
+        height: 100vw;
+    }
+
+    .foto_2 {
+        width: 100vw;
+        height: 50vw;
+        background-size: 95vw;
+        margin-top: 40vw;
+        margin-left: 2vw;
+    }
+
+    .foto4 {
+        display: none;
+    }
+
+    .beg_stroka {
+        width: 190vw;
+        height: 85vw;
+        background-size: 15vw;
+        margin-top: 70vw;
+        overflow: visible;
+        margin-left: 0vw;
+        background-repeat: repeat;
+
+    }
+
+    .beg_word {
+        width: 140vw;
+        height: 80vw;
+    }
+
+    .foto5 {
+        width: 100vw;
+        height: 100vw;
+        margin-top: 160vw;
+    }
+
+    .text5 {
+        font-family: Roboto-Black;
+        text-align: center;
+        font-size: 16vw;
+        margin-top: 173vw;
+        color: #ff0000;
+        animation: shake 2s ease infinite;
+    }
+
+    .foto5_2 {
+        width: 100vw;
+        height: 100vw;
+    }
+
+    .color_red {
+        margin-top: 15vw;
+    }
+
+    .foto6 {
+        position: absolute;
+        background: url(../img/foto6.svg);
+        width: 100vw;
+        height: 100vw;
+        background-size: 30vw;
+        margin-top: 8vw;
+        margin-left: 4vw;
+        animation: down 5s linear infinite;
+        margin-top: 500vw;
+        margin-left: 60vw;
+    }
+
+    @keyframes down  {
+
+        0% {
+            top: -30%;
+        }
+        50% {
+            top: -20%;
+        }
+        100% {
+            top: -30%;
+        }
+        
+    }
+
+    .foto_element3 {
+        width: 50vw;
+        height: 90vw;
+        margin-top: 20vw;
+        margin-left: 40vw;
+    }
+
+    .foto7 {
+        margin-top: 140vw;
+    }
+
+    
+}
+@media screen and (max-width: 414px) and (orientation: landscape) {
+    
+}
+
+
+
+@media screen and (min-width: 415px) and (max-width: 768px) and (orientation: portrait) {
+
+   
+    .sect1 {
+        height: 100vw;
+        width: 100vw;
+    }
+
+    .foto_1 {
+        width: 230vw;
+        height: 163vw;
+    }
+
+    .sect1 {
+        height: 100vw;
+    }
+
+    .foto_2 {
+        width: 100vw;
+        height: 50vw;
+        background-size: 95vw;
+        margin-top: 40vw;
+        margin-left: 2vw;
+    }
+
+    .foto4 {
+        display: none;
+    }
+
+    .beg_stroka {
+        width: 190vw;
+        height: 85vw;
+        background-size: 15vw;
+        margin-top: 70vw;
+        overflow: visible;
+        margin-left: 0vw;
+        background-repeat: repeat;
+
+    }
+
+    .beg_word {
+        width: 140vw;
+        height: 80vw;
+    }
+
+    .foto5 {
+        width: 100vw;
+        height: 100vw;
+        margin-top: 160vw;
+    }
+
+    .text5 {
+        font-family: Roboto-Black;
+        text-align: center;
+        font-size: 16vw;
+        margin-top: 173vw;
+        color: #ff0000;
+        animation: shake 2s ease infinite;
+    }
+
+    .foto5_2 {
+        width: 100vw;
+        height: 100vw;
+    }
+
+    .color_red {
+        margin-top: 15vw;
+    }
+
+    .foto6 {
+        position: absolute;
+        background: url(../img/foto6.svg);
+        width: 100vw;
+        height: 100vw;
+        background-size: 30vw;
+        margin-top: 8vw;
+        margin-left: 4vw;
+        animation: down 5s linear infinite;
+        margin-top: 500vw;
+        margin-left: 60vw;
+    }
+
+    @keyframes down  {
+
+        0% {
+            top: -30%;
+        }
+        50% {
+            top: -20%;
+        }
+        100% {
+            top: -30%;
+        }
+        
+    }
+
+    .foto_element3 {
+        width: 50vw;
+        height: 90vw;
+        margin-top: 20vw;
+        margin-left: 40vw;
+    }
+
+    .foto7 {
+        margin-top: 140vw;
+    }
+
+
+
+
+
+
+}
+
+@media screen and (min-width: 415px) and (max-width: 768px) and (orientation: landscape) {
+    
+}
+
+
+@media screen and (min-width: 769px) and (max-width: 1024px) and (orientation: portrait) {
+
+    .sect1 {
+        height: 100vw;
+        width: 100vw;
+    }
+
+    .foto_1 {
+        width: 230vw;
+        height: 163vw;
+    }
+
+    .sect1 {
+        height: 100vw;
+    }
+
+    .foto_2 {
+        width: 100vw;
+        height: 50vw;
+        background-size: 95vw;
+        margin-top: 40vw;
+        margin-left: 2vw;
+    }
+
+    .foto4 {
+        display: none;
+    }
+
+    .beg_stroka {
+        width: 190vw;
+        height: 85vw;
+        background-size: 15vw;
+        margin-top: 70vw;
+        overflow: visible;
+        margin-left: 0vw;
+        background-repeat: repeat;
+
+    }
+
+    .beg_word {
+        width: 140vw;
+        height: 80vw;
+    }
+
+    .foto5 {
+        width: 100vw;
+        height: 100vw;
+        margin-top: 160vw;
+    }
+
+    .text5 {
+        font-family: Roboto-Black;
+        text-align: center;
+        font-size: 16vw;
+        margin-top: 173vw;
+        color: #ff0000;
+        animation: shake 2s ease infinite;
+    }
+
+    .foto5_2 {
+        width: 100vw;
+        height: 100vw;
+    }
+
+    .color_red {
+        margin-top: 15vw;
+    }
+
+    .foto6 {
+        position: absolute;
+        background: url(../img/foto6.svg);
+        width: 100vw;
+        height: 100vw;
+        background-size: 30vw;
+        margin-top: 8vw;
+        margin-left: 4vw;
+        animation: down 5s linear infinite;
+        margin-top: 500vw;
+        margin-left: 60vw;
+    }
+
+    @keyframes down  {
+
+        0% {
+            top: -30%;
+        }
+        50% {
+            top: -20%;
+        }
+        100% {
+            top: -30%;
+        }
+        
+    }
+
+    .foto_element3 {
+        width: 50vw;
+        height: 90vw;
+        margin-top: 20vw;
+        margin-left: 40vw;
+    }
+
+    .foto7 {
+        margin-top: 140vw;
+    }
+    
+}
+
+@media screen and (min-width: 769px) and (max-width: 1024px) and (orientation: landscape) {
+   
+}
+
+/* ///////////////////////// Средние экраны ///////////////////////// */
+@media screen and (min-width: 1025px) and (max-width: 1366px) and (orientation: portrait) {
+
+}
+
+@media screen and (min-width: 1025px) and (max-width: 1366px) and (orientation: landscape) {
+   
+}
+
+
+@media screen and (min-width: 1367px) and (max-width: 1920px) and (orientation: portrait) {
+   
+}
+
+@media screen and (min-width: 1367px) and (max-width: 1920px) and (orientation: landscape) {
+    
+}
+
+
+@media screen and (min-width: 1921px) and (orientation: portrait) {
+    
+}
+
+@media screen and (min-width: 1921px) and (orientation: landscape) {
+    
+}
+
+
+@media screen and (min-width: 2561px) {
+    
+}
